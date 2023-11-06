@@ -1,0 +1,63 @@
+{
+  "name": "Repositorio Virtual de Enfermedades Crónicas",
+  "short_name": "RVEC",
+  "description": "Un repositorio virtual de información sobre enfermedades crónicas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#29b73a",
+  "theme_color": "#29b73a",
+  "orientation": "portrait",
+  "scope": "/",
+  "splash_screen": {
+    "src": "../img/splash_rvec.png",
+    "sizes": "512x512",  
+    "type": "image/png"     
+  },
+  "icons": [
+    {
+      "src": "../img/splash_rvec.png",
+      "sizes": "512x512",  
+      "type": "image/png"
+    },
+    {
+      "src": "../img/logo.png",
+      "sizes": "200x70",
+      "type": "image/png"
+    },
+    {
+      "src": "../img/doc1.jpg",
+      "sizes": "48x48",
+      "type": "image/jpg"
+    },
+    {
+      "src": "../img/hospital1.jpg",
+      "sizes": "96x96",
+      "type": "image/jpg"
+    },
+    {
+      "src": "../img/hospital2.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "../img/cookie.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "../img/diabetes.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    },
+    {
+      "src": "../img/epilepsia.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpg"
+    },
+    {
+      "src": "../img/alzheimer.jpg",
+      "sizes": "2048x2048",
+      "type": "image/jpg"
+    }
+  ]
+}
